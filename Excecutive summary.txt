@@ -1,0 +1,43 @@
+BLINKIT SALES DASHBOARD – EXECUTIVE SUMMARY
+
+This dashboard presents a consolidated view of Blinkit’s sales performance across products, outlet types, outlet sizes, and locations. It is designed to help stakeholders quickly understand business trends and identify growth opportunities.
+
+OVERALL PERFORMANCE
+Total Sales: $1,000,000
+Average Sales: $141
+Number of Items Sold: 8,523
+Average Customer Rating: 3.9
+
+Sales show a generally stable upward trend with a peak performance in 2018, indicating strong market demand during that period.
+
+PRODUCT INSIGHTS
+Regular-fat products contribute the majority of revenue compared to low-fat items.
+Top-performing item categories include:
+- Fruits and Snacks
+- Household items
+- Frozen and Dairy products
+
+Lower-performing categories such as Seafood, Breakfast, and Starch represent potential areas for expansion or optimization.
+
+OUTLET PERFORMANCE
+Outlet Size:
+- High-size outlets generate the highest sales ($508K, ~42%)
+- Medium-size outlets contribute $445K
+- Small outlets contribute $249K
+
+Outlet Location:
+- Tier 3 outlets lead in total sales ($472K)
+- Tier 2 outlets generate $393K
+- Tier 1 outlets generate $336K
+
+Outlet Type:
+- Supermarket Type 1 is the top performer with $788K in sales and the highest item count
+- Grocery Stores and other supermarket types contribute moderate but consistent sales
+
+KEY BUSINESS TAKEAWAYS
+- High-size outlets and Supermarket Type 1 locations are primary revenue drivers
+- Regular-fat products dominate customer demand
+- Tier 3 locations present strong sales potential and should be prioritized
+- Underperforming product categories offer opportunities for targeted growth strategies
+
+This dashboard enables data-driven decision-making by providing clear visibility into sales trends, product performance, and outlet efficiency.
