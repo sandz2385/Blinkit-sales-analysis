@@ -15,5 +15,5 @@ Key Insights:
 - Regular-fat products dominate overall sales
 
 Tools Used:
-- Power BI / Excel 
+- Power BI
 - Data visualization and analysis techniques
